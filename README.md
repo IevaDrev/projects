@@ -1,1 +1,1 @@
-This is my very first web projects, done while attending intensive bootcamp course at Kaunas Coding School - 2018-05
+This is my very first web project, done while attending intensive bootcamp (web development) course at Kaunas Coding School - 2018-05
